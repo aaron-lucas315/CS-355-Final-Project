@@ -1,0 +1,63 @@
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Information.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee_or_Customer.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Inventory.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Manufacturer.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Order.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Transporter.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.exe.config
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.exe
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.pdb
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.exe
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.pdb
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.drug_registration.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Signin.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee_Signin.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Desk.resources
+C:\Users\Toshiba\Desktop\Maham\DB\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.New_customer_form.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.exe.config
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.exe
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.pdb
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.csprojAssemblyReference.cache
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Information.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Desk.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Signin.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee_or_Customer.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee_Signin.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Inventory.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Manufacturer.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.drug_registration.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.New_customer_form.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Order.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Properties.Resources.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Transporter.resources
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.csproj.GenerateResource.cache
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.exe
+C:\Users\aaron\Desktop\DB project\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.pdb
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.exe.config
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.exe
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\bin\Debug\DB_Project drug delivery.pdb
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.csprojAssemblyReference.cache
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Information.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Desk.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Customer_Signin.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee_or_Customer.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee_Signin.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Inventory.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Manufacturer.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.drug_registration.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.New_customer_form.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Order.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Properties.Resources.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Transporter.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.csproj.GenerateResource.cache
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.exe
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project drug delivery.pdb
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Employee_Desk.resources
+C:\Users\aaron\Desktop\DB project - edited\DB_Project drug delivery\DB_Project drug delivery\obj\Debug\DB_Project_drug_delivery.Manager_Desk.resources
